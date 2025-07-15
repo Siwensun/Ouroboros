@@ -1,4 +1,4 @@
-# Ouroboros [ICCV 2025]
+# Ouroboros
 
 > **Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and Inverse Rendering**
 > 
