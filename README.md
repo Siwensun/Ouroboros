@@ -11,8 +11,12 @@
 ## Highlights <a name="highlights"></a>
 
 :star2: Ouroboros is a neural lighting simulator for image decomposition and composition.
+
 :star2: Single-step diffusion models for cycle-consistent lighting simulator. 
+
 :star3: Zero-shot generalized to neural video inverse and forward rendering.
+
+![](./assets/teaser.png "Ouroboros")
 
 ## 📰 News
 
